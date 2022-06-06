@@ -57,7 +57,6 @@ This project is licensed under the terms of the GPL-3.0 license.
 1. List of countries with both sides validation, possibility of choosing any country in the world's  list.
 2. Choose the most famous cities from each country in a list, or an option (other) if nothing has been found.
 3. Filter or sort any column in the data page.
-4. Refresh option to fetch new data from the list.
-5. export data to .csv file
-![image1](/assets/images/first_pic.png)
-![image2](/assets/images/second_pic.png)
+4. Refresh option to fetch new data from the server.
+5. Export data to .csv file.
+6. Change page theme between day/night.
